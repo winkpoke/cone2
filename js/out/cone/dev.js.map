@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/pc\/projects\/cone\/app\/cone.cljs\/public\/js\/out\/cone\/dev.js","sources":["dev.cljs"],"lineCount":10,"mappings":";AAAA;;;;AAMA,AAACA;AAED,AAACC;AAED,AAACC","names":["cljs.core\/enable-console-print!","devtools.core\/install!","cone.core\/init!"]}
